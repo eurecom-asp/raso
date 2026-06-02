@@ -2,11 +2,11 @@
 
 # RASO
 
-### Reference-free Adversarial Sex Obfuscation in Speech
+### Reference-Free Adversarial Sex Obfuscation in Speech
 
-[![arXiv](https://img.shields.io/badge/arXiv-2508.02295-b31b1b.svg)](https://arxiv.org/abs/2508.02295)
-[![EURECOM](https://img.shields.io/badge/EURECOM-publication-blue)](https://www.eurecom.fr/en/publication/8317)
-[![Conference](https://img.shields.io/badge/APSIPA-2025-green)](https://www.eurecom.fr/en/publication/8317)
+[![IEEE Xplore](https://img.shields.io/badge/IEEE%20Xplore-11249000-blue)](https://ieeexplore.ieee.org/document/11249000)
+[![DOI](https://img.shields.io/badge/DOI-10.1109%2FAPSIPAASC65261.2025.11249000-green)](https://doi.org/10.1109/APSIPAASC65261.2025.11249000)
+[![Conference](https://img.shields.io/badge/APSIPA%20ASC-2025-orange)](https://ieeexplore.ieee.org/document/11249000)
 
 </div>
 
@@ -18,15 +18,14 @@ The method combines adversarial learning, acoustic feature manipulation, F0/form
 
 This repository contains the cleaned training and evaluation code associated with the paper:
 
-> **Reference-free Adversarial Sex Obfuscation in Speech**  
+> **Reference-Free Adversarial Sex Obfuscation in Speech**  
 > Yangyang Qu, Michele Panariello, Massimiliano Todisco, Nicholas Evans  
-> APSIPA ASC 2025
+> 2025 Asia Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC), pp. 2128–2133
 
-Paper links:
+Paper link:
 
-- arXiv: https://arxiv.org/abs/2508.02295
-- EURECOM publication page: https://www.eurecom.fr/en/publication/8317
-- PDF: https://arxiv.org/pdf/2508.02295
+- IEEE Xplore: https://ieeexplore.ieee.org/document/11249000
+- DOI: https://doi.org/10.1109/APSIPAASC65261.2025.11249000
 
 ## Repository Structure
 
@@ -132,13 +131,13 @@ Recommended handling:
 If you use this code, please cite:
 
 ```bibtex
-@inproceedings{qu2025raso,
-  title     = {Reference-free Adversarial Sex Obfuscation in Speech},
-  author    = {Qu, Yangyang and Panariello, Michele and Todisco, Massimiliano and Evans, Nicholas},
-  booktitle = {Proceedings of the 17th Asia Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC)},
-  year      = {2025},
-  address   = {Singapore},
-  note      = {arXiv:2508.02295}
+@INPROCEEDINGS{11249000,
+  author={Qu, Yangyang and Panariello, Michele and Todisco, Massimiliano and Evans, Nicholas},
+  booktitle={2025 Asia Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC)}, 
+  title={Reference-Free Adversarial Sex Obfuscation in Speech}, 
+  year={2025},
+  pages={2128-2133},
+  doi={10.1109/APSIPAASC65261.2025.11249000}
 }
 ```
 
