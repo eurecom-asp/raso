@@ -111,7 +111,7 @@ The evaluation code includes scripts for:
 
 ## Citation
 
-If you use this code, please cite:
+If you like our work or use the models in your work, kindly cite the following. We appreciate your recognition!
 
 ```bibtex
 @INPROCEEDINGS{11249000,
@@ -123,11 +123,3 @@ If you use this code, please cite:
   doi={10.1109/APSIPAASC65261.2025.11249000}
 }
 ```
-
-## License
-
-Please check the license file before using or redistributing this code. If no license is provided, all rights are reserved by the authors.
-
-## Acknowledgements
-
-This work was conducted at EURECOM.
