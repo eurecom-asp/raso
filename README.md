@@ -16,16 +16,9 @@ RASO is a reference-free speech privacy method for sex obfuscation. It aims to s
 
 The method combines adversarial learning, acoustic feature manipulation, F0/formant-oriented regularisation, neural vocoder-based waveform reconstruction, and external attacker-based evaluation for sex leakage.
 
-This repository contains the cleaned training and evaluation code associated with the paper:
-
-> **Reference-Free Adversarial Sex Obfuscation in Speech**  
-> Yangyang Qu, Michele Panariello, Massimiliano Todisco, Nicholas Evans  
-> 2025 Asia Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC), pp. 2128–2133
-
 Paper link:
-
 - IEEE Xplore: https://ieeexplore.ieee.org/document/11249000
-- DOI: https://doi.org/10.1109/APSIPAASC65261.2025.11249000
+
 
 ## Repository Structure
 
