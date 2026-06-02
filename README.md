@@ -109,16 +109,6 @@ The evaluation code includes scripts for:
 - DET/EER-based sex leakage analysis;
 - score-distribution analysis.
 
-## Checkpoints and Generated Audio
-
-Model checkpoints and generated audio are not stored in this GitHub repository.
-
-Recommended handling:
-
-- keep checkpoints outside GitHub;
-- host large model files on Hugging Face or another model hosting service;
-- keep generated wav files and intermediate features out of the repository.
-
 ## Citation
 
 If you use this code, please cite:
